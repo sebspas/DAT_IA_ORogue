@@ -1,0 +1,968 @@
+parameters width=250 height=180
+print x=187 y=96 terrain type=2
+print x=186 y=97 terrain type=2
+print x=185 y=98 terrain type=2
+print x=184 y=99 terrain type=2
+print x=183 y=100 terrain type=2
+print x=180 y=99 terrain type=6
+print x=180 y=100 terrain type=6
+print x=181 y=100 terrain type=2
+print x=188 y=96 terrain type=4
+print x=187 y=97 terrain type=2
+print x=186 y=98 terrain type=2
+print x=185 y=99 terrain type=2
+print x=184 y=100 terrain type=2
+print x=188 y=97 terrain type=4
+print x=187 y=98 terrain type=2
+print x=186 y=99 terrain type=2
+print x=185 y=100 terrain type=2
+print x=188 y=98 terrain type=4
+print x=187 y=99 terrain type=2
+print x=186 y=100 terrain type=2
+print x=189 y=98 terrain type=2
+print x=188 y=99 terrain type=4
+print x=187 y=100 terrain type=2
+print x=189 y=99 terrain type=2
+print x=188 y=100 terrain type=4
+print x=189 y=100 terrain type=2
+print x=189 y=101 terrain type=2
+print x=188 y=101 terrain type=4
+print x=187 y=101 terrain type=2
+print x=186 y=101 terrain type=2
+print x=185 y=101 terrain type=2
+print x=184 y=101 terrain type=2
+print x=183 y=101 terrain type=2
+print x=179 y=100 terrain type=6
+print x=178 y=100 terrain type=6
+print x=177 y=100 terrain type=6
+print x=176 y=100 terrain type=6
+print x=175 y=100 terrain type=6
+print x=175 y=101 terrain type=2
+print x=176 y=101 terrain type=2
+print x=175 y=102 terrain type=2
+print x=175 y=103 terrain type=2
+print x=176 y=102 terrain type=2
+print x=177 y=101 terrain type=2
+print x=177 y=102 terrain type=6
+print x=178 y=101 terrain type=2
+print x=178 y=102 terrain type=6
+print x=179 y=101 terrain type=2
+print x=179 y=102 terrain type=6
+print x=180 y=101 terrain type=2
+print x=180 y=102 terrain type=6
+print x=181 y=101 terrain type=2
+print x=180 y=103 terrain type=6
+print x=181 y=102 terrain type=2
+print x=189 y=102 terrain type=2
+print x=188 y=102 terrain type=4
+print x=187 y=102 terrain type=2
+print x=186 y=102 terrain type=2
+print x=185 y=102 terrain type=2
+print x=184 y=102 terrain type=2
+print x=189 y=103 terrain type=2
+print x=188 y=103 terrain type=4
+print x=187 y=103 terrain type=2
+print x=186 y=103 terrain type=2
+print x=185 y=103 terrain type=2
+print x=189 y=104 terrain type=2
+print x=188 y=104 terrain type=4
+print x=187 y=104 terrain type=2
+print x=186 y=104 terrain type=2
+print x=188 y=105 terrain type=4
+print x=187 y=105 terrain type=2
+print x=188 y=106 terrain type=2
+print x=187 y=106 terrain type=2
+print x=186 y=105 terrain type=1
+print x=185 y=104 terrain type=2
+print x=184 y=103 terrain type=2
+print x=183 y=102 terrain type=2
+print x=179 y=105 terrain type=6
+print x=180 y=105 terrain type=6
+print x=180 y=104 terrain type=7
+print x=181 y=103 terrain type=2
+print x=181 y=104 terrain type=2
+print x=179 y=107 terrain type=2
+print x=180 y=106 terrain type=2
+print x=181 y=105 terrain type=2
+print x=179 y=108 terrain type=2
+print x=180 y=107 terrain type=2
+print x=181 y=106 terrain type=2
+print x=180 y=108 terrain type=2
+print x=181 y=107 terrain type=2
+print x=181 y=108 terrain type=2
+print x=182 y=108 terrain type=4
+print x=182 y=107 terrain type=4
+print x=182 y=106 terrain type=4
+print x=182 y=105 terrain type=4
+print x=182 y=104 terrain type=4
+print x=182 y=103 terrain type=4
+print x=183 y=108 terrain type=2
+print x=183 y=107 terrain type=2
+print x=183 y=106 terrain type=2
+print x=183 y=105 terrain type=2
+print x=183 y=104 terrain type=2
+print x=184 y=108 terrain type=2
+print x=184 y=107 terrain type=2
+print x=184 y=106 terrain type=1
+print x=184 y=105 terrain type=2
+print x=185 y=108 terrain type=2
+print x=185 y=107 terrain type=2
+print x=185 y=106 terrain type=1
+print x=186 y=107 terrain type=2
+print x=187 y=107 terrain type=2
+print x=186 y=106 terrain type=2
+print x=185 y=105 terrain type=1
+print x=184 y=104 terrain type=2
+print x=183 y=103 terrain type=2
+print x=182 y=102 terrain type=4
+print x=180 y=98 terrain type=6
+print x=181 y=99 terrain type=2
+print x=180 y=97 terrain type=6
+print x=181 y=98 terrain type=2
+print x=180 y=96 terrain type=6
+print x=181 y=97 terrain type=2
+print x=179 y=94 terrain type=4
+print x=180 y=95 terrain type=2
+print x=181 y=96 terrain type=2
+print x=180 y=94 terrain type=4
+print x=181 y=95 terrain type=2
+print x=181 y=94 terrain type=4
+print x=182 y=94 terrain type=4
+print x=182 y=95 terrain type=4
+print x=182 y=96 terrain type=4
+print x=182 y=97 terrain type=4
+print x=182 y=98 terrain type=4
+print x=182 y=99 terrain type=4
+print x=183 y=94 terrain type=4
+print x=183 y=95 terrain type=2
+print x=183 y=96 terrain type=2
+print x=183 y=97 terrain type=2
+print x=183 y=98 terrain type=2
+print x=184 y=94 terrain type=4
+print x=184 y=95 terrain type=2
+print x=184 y=96 terrain type=2
+print x=184 y=97 terrain type=2
+print x=185 y=94 terrain type=4
+print x=185 y=95 terrain type=1
+print x=185 y=96 terrain type=2
+print x=186 y=95 terrain type=1
+print x=187 y=95 terrain type=1
+print x=186 y=96 terrain type=2
+print x=185 y=97 terrain type=2
+print x=184 y=98 terrain type=2
+print x=183 y=99 terrain type=2
+print x=182 y=100 terrain type=4
+print x=182 y=101 ally character_index=1 hit_point=2 symbol=h
+print x=194 y=135 terrain type=6
+print x=193 y=136 terrain type=2
+print x=192 y=137 terrain type=4
+print x=191 y=138 terrain type=2
+print x=190 y=139 terrain type=2
+print x=185 y=136 terrain type=6
+print x=185 y=137 terrain type=6
+print x=185 y=135 terrain type=6
+print x=185 y=134 terrain type=6
+print x=186 y=133 terrain type=1
+print x=186 y=134 terrain type=2
+print x=186 y=135 terrain type=2
+print x=186 y=136 terrain type=2
+print x=186 y=137 terrain type=2
+print x=187 y=137 terrain type=6
+print x=187 y=138 terrain type=2
+print x=188 y=139 terrain type=2
+print x=195 y=135 food hit_point=1 symbol=f
+print x=195 y=136 terrain type=5
+print x=194 y=136 terrain type=7
+print x=194 y=137 terrain type=6
+print x=193 y=137 terrain type=1
+print x=192 y=138 terrain type=4
+print x=191 y=139 terrain type=2
+print x=193 y=138 terrain type=1
+print x=192 y=139 terrain type=4
+print x=195 y=137 terrain type=6
+print x=194 y=138 terrain type=1
+print x=193 y=139 terrain type=1
+print x=196 y=137 terrain type=6
+print x=195 y=138 terrain type=2
+print x=194 y=139 terrain type=1
+print x=196 y=138 terrain type=2
+print x=195 y=139 terrain type=2
+print x=196 y=139 terrain type=2
+print x=196 y=140 terrain type=4
+print x=195 y=140 terrain type=4
+print x=194 y=140 terrain type=4
+print x=193 y=140 terrain type=4
+print x=192 y=140 terrain type=4
+print x=191 y=140 terrain type=4
+print x=190 y=140 terrain type=4
+print x=186 y=138 terrain type=2
+print x=187 y=139 terrain type=2
+print x=184 y=137 terrain type=6
+print x=185 y=138 terrain type=1
+print x=186 y=139 terrain type=1
+print x=183 y=137 terrain type=6
+print x=184 y=138 terrain type=1
+print x=185 y=139 terrain type=1
+print x=182 y=137 terrain type=6
+print x=183 y=138 terrain type=2
+print x=184 y=139 terrain type=2
+print x=182 y=138 terrain type=2
+print x=183 y=139 terrain type=2
+print x=182 y=139 terrain type=2
+print x=182 y=140 terrain type=4
+print x=183 y=140 terrain type=4
+print x=184 y=140 terrain type=4
+print x=185 y=140 terrain type=4
+print x=186 y=140 terrain type=4
+print x=187 y=140 terrain type=4
+print x=188 y=140 terrain type=4
+print x=182 y=141 terrain type=2
+print x=183 y=141 terrain type=2
+print x=184 y=141 terrain type=2
+print x=185 y=141 terrain type=2
+print x=186 y=141 terrain type=2
+print x=187 y=141 terrain type=2
+print x=182 y=142 terrain type=1
+print x=183 y=142 terrain type=2
+print x=184 y=142 terrain type=2
+print x=185 y=142 terrain type=2
+print x=186 y=142 terrain type=2
+print x=182 y=143 terrain type=1
+print x=183 y=143 terrain type=2
+print x=184 y=143 terrain type=2
+print x=185 y=143 terrain type=2
+print x=183 y=144 terrain type=2
+print x=184 y=144 terrain type=2
+print x=183 y=145 terrain type=4
+print x=184 y=145 terrain type=4
+print x=185 y=144 terrain type=2
+print x=186 y=143 terrain type=2
+print x=187 y=142 terrain type=1
+print x=188 y=141 terrain type=2
+print x=196 y=141 terrain type=2
+print x=196 y=142 terrain type=6
+print x=195 y=141 terrain type=2
+print x=195 y=142 terrain type=6
+print x=194 y=141 terrain type=2
+print x=193 y=141 terrain type=2
+print x=192 y=141 terrain type=4
+print x=191 y=141 terrain type=2
+print x=195 y=143 terrain type=6
+print x=194 y=142 terrain type=2
+print x=193 y=142 terrain type=2
+print x=192 y=142 terrain type=4
+print x=195 y=144 terrain type=6
+print x=194 y=143 terrain type=2
+print x=193 y=143 terrain type=2
+print x=195 y=145 terrain type=6
+print x=194 y=144 terrain type=2
+print x=194 y=145 terrain type=2
+print x=193 y=144 terrain type=2
+print x=192 y=143 terrain type=4
+print x=191 y=142 terrain type=2
+print x=190 y=141 terrain type=2
+print x=184 y=146 terrain type=2
+print x=185 y=145 terrain type=4
+print x=186 y=144 terrain type=2
+print x=187 y=143 terrain type=2
+print x=188 y=142 terrain type=2
+print x=185 y=146 terrain type=2
+print x=186 y=145 terrain type=4
+print x=187 y=144 terrain type=2
+print x=188 y=143 terrain type=2
+print x=186 y=147 terrain type=6
+print x=186 y=146 terrain type=2
+print x=187 y=145 terrain type=4
+print x=188 y=144 terrain type=2
+print x=187 y=147 terrain type=6
+print x=187 y=146 terrain type=2
+print x=188 y=145 terrain type=4
+print x=188 y=146 terrain type=2
+print x=188 y=147 terrain type=2
+print x=189 y=147 terrain type=2
+print x=189 y=146 terrain type=2
+print x=189 y=145 terrain type=4
+print x=189 y=144 terrain type=2
+print x=189 y=143 terrain type=2
+print x=189 y=142 terrain type=2
+print x=190 y=147 terrain type=2
+print x=190 y=146 terrain type=2
+print x=190 y=145 terrain type=4
+print x=190 y=144 terrain type=2
+print x=190 y=143 terrain type=2
+print x=191 y=147 terrain type=2
+print x=191 y=146 terrain type=2
+print x=191 y=145 terrain type=4
+print x=191 y=144 terrain type=2
+print x=192 y=147 terrain type=2
+print x=192 y=146 terrain type=2
+print x=192 y=145 terrain type=4
+print x=193 y=146 terrain type=2
+print x=194 y=146 terrain type=2
+print x=193 y=145 terrain type=2
+print x=192 y=144 terrain type=4
+print x=191 y=143 terrain type=2
+print x=190 y=142 terrain type=2
+print x=189 y=141 terrain type=2
+print x=188 y=137 terrain type=6
+print x=188 y=138 terrain type=2
+print x=189 y=137 terrain type=6
+print x=190 y=137 terrain type=6
+print x=189 y=138 terrain type=2
+print x=191 y=133 terrain type=2
+print x=191 y=134 terrain type=2
+print x=191 y=135 terrain type=2
+print x=191 y=136 terrain type=2
+print x=192 y=133 terrain type=4
+print x=192 y=134 terrain type=4
+print x=192 y=135 terrain type=4
+print x=193 y=134 terrain type=2
+print x=194 y=134 terrain type=6
+print x=193 y=135 terrain type=2
+print x=192 y=136 terrain type=4
+print x=191 y=137 terrain type=2
+print x=190 y=138 terrain type=2
+print x=189 y=139 terrain type=2
+print x=189 y=140 ally character_index=2 hit_point=2 symbol=h
+print x=106 y=18 terrain type=6
+print x=105 y=18 terrain type=6
+print x=105 y=19 terrain type=5
+print x=102 y=18 terrain type=6
+print x=103 y=18 terrain type=6
+print x=103 y=19 terrain type=5
+print x=107 y=18 terrain type=6
+print x=107 y=19 terrain type=6
+print x=106 y=19 terrain type=5
+print x=107 y=20 terrain type=6
+print x=107 y=21 terrain type=6
+print x=106 y=20 terrain type=5
+print x=106 y=21 terrain type=6
+print x=105 y=20 terrain type=5
+print x=101 y=18 terrain type=6
+print x=101 y=19 terrain type=6
+print x=102 y=19 food hit_point=1 symbol=f
+print x=98 y=17 terrain type=4
+print x=99 y=18 terrain type=4
+print x=100 y=19 terrain type=2
+print x=97 y=17 terrain type=4
+print x=98 y=18 terrain type=2
+print x=99 y=19 terrain type=4
+print x=97 y=18 terrain type=2
+print x=98 y=19 terrain type=2
+print x=97 y=19 terrain type=2
+print x=97 y=20 terrain type=2
+print x=98 y=20 terrain type=2
+print x=99 y=20 terrain type=4
+print x=100 y=20 terrain type=2
+print x=97 y=21 terrain type=1
+print x=98 y=21 terrain type=2
+print x=99 y=21 terrain type=4
+print x=97 y=22 terrain type=1
+print x=98 y=22 terrain type=1
+print x=97 y=23 terrain type=1
+print x=98 y=23 terrain type=1
+print x=99 y=22 terrain type=4
+print x=100 y=21 terrain type=2
+print x=101 y=20 terrain type=7
+print x=101 y=21 terrain type=6
+print x=102 y=20 terrain type=5
+print x=102 y=21 terrain type=6
+print x=103 y=20 terrain type=5
+print x=103 y=21 terrain type=6
+print x=105 y=21 terrain type=6
+print x=104 y=21 terrain type=6
+print x=104 y=18 terrain type=6
+print x=104 y=19 terrain type=5
+print x=104 y=20 ally character_index=3 hit_point=2 symbol=h
+print x=222 y=60 terrain type=2
+print x=221 y=61 terrain type=2
+print x=220 y=62 terrain type=2
+print x=219 y=63 terrain type=2
+print x=218 y=64 terrain type=2
+print x=212 y=60 terrain type=2
+print x=213 y=61 terrain type=2
+print x=214 y=62 terrain type=2
+print x=215 y=63 terrain type=2
+print x=216 y=64 terrain type=2
+print x=223 y=60 terrain type=2
+print x=222 y=61 terrain type=2
+print x=221 y=62 terrain type=2
+print x=220 y=63 terrain type=2
+print x=219 y=64 terrain type=2
+print x=223 y=61 terrain type=2
+print x=222 y=62 terrain type=2
+print x=221 y=63 terrain type=2
+print x=220 y=64 terrain type=2
+print x=223 y=62 terrain type=2
+print x=222 y=63 terrain type=2
+print x=221 y=64 terrain type=2
+print x=224 y=62 terrain type=2
+print x=223 y=63 terrain type=2
+print x=222 y=64 terrain type=2
+print x=224 y=63 terrain type=2
+print x=223 y=64 terrain type=2
+print x=224 y=64 terrain type=2
+print x=224 y=65 terrain type=2
+print x=223 y=65 terrain type=2
+print x=222 y=65 terrain type=2
+print x=221 y=65 terrain type=2
+print x=220 y=65 terrain type=2
+print x=219 y=65 terrain type=2
+print x=218 y=65 terrain type=2
+print x=211 y=60 terrain type=2
+print x=212 y=61 terrain type=2
+print x=213 y=62 terrain type=2
+print x=214 y=63 terrain type=2
+print x=215 y=64 terrain type=2
+print x=211 y=61 terrain type=2
+print x=212 y=62 terrain type=2
+print x=213 y=63 terrain type=2
+print x=214 y=64 terrain type=2
+print x=211 y=62 terrain type=2
+print x=212 y=63 terrain type=2
+print x=213 y=64 terrain type=3
+print x=210 y=62 terrain type=2
+print x=211 y=63 terrain type=2
+print x=212 y=64 terrain type=3
+print x=210 y=63 terrain type=2
+print x=211 y=64 terrain type=3
+print x=210 y=64 terrain type=2
+print x=210 y=65 terrain type=3
+print x=211 y=65 terrain type=3
+print x=212 y=65 terrain type=3
+print x=213 y=65 terrain type=3
+print x=214 y=65 terrain type=3
+print x=215 y=65 terrain type=3
+print x=216 y=65 terrain type=1
+print x=210 y=66 terrain type=3
+print x=211 y=66 terrain type=3
+print x=212 y=66 terrain type=3
+print x=213 y=66 terrain type=3
+print x=214 y=66 terrain type=3
+print x=215 y=66 terrain type=3
+print x=210 y=67 terrain type=3
+print x=211 y=67 terrain type=3
+print x=212 y=67 terrain type=3
+print x=213 y=67 terrain type=3
+print x=214 y=67 terrain type=3
+print x=210 y=68 terrain type=3
+print x=211 y=68 terrain type=3
+print x=212 y=68 terrain type=3
+print x=213 y=68 terrain type=3
+print x=211 y=69 terrain type=3
+print x=212 y=69 terrain type=3
+print x=211 y=70 terrain type=3
+print x=212 y=70 terrain type=3
+print x=213 y=69 terrain type=3
+print x=214 y=68 terrain type=3
+print x=215 y=67 terrain type=3
+print x=216 y=66 terrain type=3
+print x=224 y=66 terrain type=1
+print x=223 y=66 terrain type=1
+print x=222 y=66 terrain type=2
+print x=221 y=66 terrain type=2
+print x=220 y=66 terrain type=2
+print x=219 y=66 terrain type=2
+print x=224 y=67 terrain type=2
+print x=223 y=67 terrain type=2
+print x=222 y=67 terrain type=2
+print x=221 y=67 terrain type=2
+print x=220 y=67 terrain type=2
+print x=224 y=68 terrain type=2
+print x=223 y=68 terrain type=2
+print x=222 y=68 terrain type=2
+print x=221 y=68 terrain type=2
+print x=223 y=69 terrain type=2
+print x=222 y=69 terrain type=2
+print x=223 y=70 terrain type=2
+print x=222 y=70 terrain type=2
+print x=221 y=69 terrain type=2
+print x=220 y=68 terrain type=2
+print x=219 y=67 terrain type=2
+print x=218 y=66 terrain type=1
+print x=212 y=71 terrain type=3
+print x=213 y=70 terrain type=3
+print x=214 y=69 terrain type=3
+print x=215 y=68 terrain type=3
+print x=216 y=67 terrain type=3
+print x=213 y=71 terrain type=3
+print x=214 y=70 terrain type=3
+print x=215 y=69 terrain type=3
+print x=216 y=68 terrain type=3
+print x=214 y=71 terrain type=3
+print x=215 y=70 terrain type=3
+print x=216 y=69 terrain type=3
+print x=214 y=72 terrain type=3
+print x=215 y=71 terrain type=3
+print x=216 y=70 terrain type=3
+print x=215 y=72 terrain type=3
+print x=216 y=71 terrain type=3
+print x=216 y=72 terrain type=3
+print x=217 y=72 terrain type=3
+print x=217 y=71 terrain type=3
+print x=217 y=70 terrain type=3
+print x=217 y=69 terrain type=3
+print x=217 y=68 terrain type=3
+print x=217 y=67 terrain type=1
+print x=218 y=72 terrain type=3
+print x=218 y=71 terrain type=3
+print x=218 y=70 terrain type=3
+print x=218 y=69 terrain type=3
+print x=218 y=68 terrain type=2
+print x=219 y=72 terrain type=3
+print x=219 y=71 terrain type=3
+print x=219 y=70 terrain type=2
+print x=219 y=69 terrain type=2
+print x=220 y=72 terrain type=2
+print x=220 y=71 terrain type=2
+print x=220 y=70 terrain type=2
+print x=221 y=71 terrain type=2
+print x=222 y=71 terrain type=2
+print x=221 y=70 terrain type=2
+print x=220 y=69 terrain type=2
+print x=219 y=68 terrain type=2
+print x=218 y=67 terrain type=1
+print x=217 y=66 terrain type=1
+print x=212 y=59 terrain type=2
+print x=213 y=60 terrain type=2
+print x=214 y=61 terrain type=2
+print x=215 y=62 terrain type=2
+print x=216 y=63 terrain type=2
+print x=213 y=59 terrain type=2
+print x=214 y=60 terrain type=2
+print x=215 y=61 terrain type=2
+print x=216 y=62 terrain type=2
+print x=214 y=59 terrain type=2
+print x=215 y=60 terrain type=2
+print x=216 y=61 terrain type=2
+print x=214 y=58 terrain type=2
+print x=215 y=59 terrain type=2
+print x=216 y=60 terrain type=2
+print x=215 y=58 terrain type=2
+print x=216 y=59 terrain type=2
+print x=216 y=58 terrain type=2
+print x=217 y=58 terrain type=2
+print x=217 y=59 terrain type=2
+print x=217 y=60 terrain type=2
+print x=217 y=61 terrain type=2
+print x=217 y=62 terrain type=2
+print x=217 y=63 terrain type=2
+print x=218 y=58 terrain type=2
+print x=218 y=59 terrain type=1
+print x=218 y=60 terrain type=1
+print x=218 y=61 terrain type=1
+print x=218 y=62 terrain type=2
+print x=219 y=58 terrain type=2
+print x=219 y=59 terrain type=2
+print x=219 y=60 terrain type=2
+print x=219 y=61 terrain type=2
+print x=220 y=58 terrain type=2
+print x=220 y=59 terrain type=2
+print x=220 y=60 terrain type=2
+print x=221 y=59 terrain type=2
+print x=222 y=59 terrain type=2
+print x=221 y=60 terrain type=2
+print x=220 y=61 terrain type=2
+print x=219 y=62 terrain type=2
+print x=218 y=63 terrain type=2
+print x=217 y=64 terrain type=2
+print x=217 y=65 ally character_index=4 hit_point=2 symbol=h
+print x=204 y=73 terrain type=2
+print x=203 y=74 terrain type=2
+print x=202 y=75 terrain type=2
+print x=201 y=76 terrain type=2
+print x=200 y=77 terrain type=2
+print x=194 y=73 terrain type=2
+print x=195 y=74 terrain type=2
+print x=196 y=75 terrain type=2
+print x=197 y=76 terrain type=2
+print x=198 y=77 terrain type=1
+print x=205 y=73 terrain type=2
+print x=204 y=74 terrain type=2
+print x=203 y=75 terrain type=2
+print x=202 y=76 terrain type=2
+print x=201 y=77 terrain type=2
+print x=205 y=74 terrain type=1
+print x=204 y=75 terrain type=2
+print x=203 y=76 terrain type=2
+print x=202 y=77 terrain type=2
+print x=205 y=75 terrain type=1
+print x=204 y=76 terrain type=2
+print x=203 y=77 terrain type=2
+print x=206 y=75 terrain type=1
+print x=205 y=76 terrain type=2
+print x=204 y=77 terrain type=2
+print x=206 y=76 terrain type=1
+print x=205 y=77 terrain type=2
+print x=206 y=77 terrain type=2
+print x=206 y=78 terrain type=2
+print x=205 y=78 terrain type=2
+print x=204 y=78 terrain type=2
+print x=203 y=78 terrain type=2
+print x=202 y=78 terrain type=2
+print x=201 y=78 terrain type=2
+print x=200 y=78 terrain type=2
+print x=193 y=73 terrain type=2
+print x=194 y=74 terrain type=2
+print x=195 y=75 terrain type=2
+print x=196 y=76 terrain type=2
+print x=197 y=77 terrain type=2
+print x=193 y=74 terrain type=2
+print x=194 y=75 terrain type=2
+print x=195 y=76 terrain type=2
+print x=196 y=77 terrain type=2
+print x=193 y=75 terrain type=2
+print x=194 y=76 terrain type=2
+print x=195 y=77 terrain type=2
+print x=192 y=75 terrain type=2
+print x=193 y=76 terrain type=2
+print x=194 y=77 terrain type=2
+print x=192 y=76 terrain type=2
+print x=193 y=77 terrain type=2
+print x=192 y=77 terrain type=2
+print x=192 y=78 terrain type=2
+print x=193 y=78 terrain type=2
+print x=194 y=78 terrain type=2
+print x=195 y=78 terrain type=2
+print x=196 y=78 terrain type=2
+print x=197 y=78 terrain type=2
+print x=198 y=78 terrain type=2
+print x=192 y=79 terrain type=2
+print x=193 y=79 terrain type=2
+print x=194 y=79 terrain type=1
+print x=195 y=79 terrain type=2
+print x=196 y=79 terrain type=2
+print x=197 y=79 terrain type=2
+print x=192 y=80 terrain type=2
+print x=193 y=80 terrain type=2
+print x=194 y=80 terrain type=2
+print x=195 y=80 terrain type=2
+print x=196 y=80 terrain type=2
+print x=192 y=81 terrain type=2
+print x=193 y=81 terrain type=2
+print x=194 y=81 terrain type=2
+print x=195 y=81 terrain type=2
+print x=193 y=82 terrain type=2
+print x=194 y=82 terrain type=2
+print x=193 y=83 terrain type=2
+print x=194 y=83 terrain type=2
+print x=195 y=82 terrain type=2
+print x=196 y=81 terrain type=2
+print x=197 y=80 terrain type=2
+print x=198 y=79 terrain type=2
+print x=206 y=79 terrain type=2
+print x=205 y=79 terrain type=2
+print x=204 y=79 terrain type=2
+print x=203 y=79 terrain type=2
+print x=202 y=79 terrain type=2
+print x=201 y=79 terrain type=2
+print x=206 y=80 terrain type=1
+print x=205 y=80 terrain type=2
+print x=204 y=80 terrain type=2
+print x=203 y=80 terrain type=2
+print x=202 y=80 terrain type=2
+print x=206 y=81 terrain type=1
+print x=205 y=81 terrain type=1
+print x=204 y=81 terrain type=2
+print x=203 y=81 terrain type=2
+print x=205 y=82 terrain type=2
+print x=204 y=82 terrain type=2
+print x=205 y=83 terrain type=2
+print x=204 y=83 terrain type=2
+print x=203 y=82 terrain type=2
+print x=202 y=81 terrain type=2
+print x=201 y=80 terrain type=2
+print x=200 y=79 terrain type=2
+print x=194 y=84 terrain type=2
+print x=195 y=83 terrain type=2
+print x=196 y=82 terrain type=2
+print x=197 y=81 terrain type=2
+print x=198 y=80 terrain type=2
+print x=195 y=84 terrain type=2
+print x=196 y=83 terrain type=2
+print x=197 y=82 terrain type=2
+print x=198 y=81 terrain type=2
+print x=196 y=84 terrain type=2
+print x=197 y=83 terrain type=2
+print x=198 y=82 terrain type=2
+print x=196 y=85 terrain type=2
+print x=197 y=84 terrain type=2
+print x=198 y=83 terrain type=2
+print x=197 y=85 terrain type=2
+print x=198 y=84 terrain type=2
+print x=198 y=85 terrain type=2
+print x=199 y=85 terrain type=0
+print x=199 y=84 terrain type=2
+print x=199 y=83 terrain type=2
+print x=199 y=82 terrain type=1
+print x=199 y=81 terrain type=2
+print x=199 y=80 terrain type=2
+print x=200 y=85 terrain type=0
+print x=200 y=84 terrain type=2
+print x=200 y=83 terrain type=2
+print x=200 y=82 terrain type=1
+print x=200 y=81 terrain type=2
+print x=201 y=85 terrain type=0
+print x=201 y=84 terrain type=2
+print x=201 y=83 terrain type=2
+print x=201 y=82 terrain type=2
+print x=202 y=85 terrain type=0
+print x=202 y=84 terrain type=0
+print x=202 y=83 terrain type=2
+print x=203 y=84 terrain type=2
+print x=204 y=84 terrain type=2
+print x=203 y=83 terrain type=2
+print x=202 y=82 terrain type=2
+print x=201 y=81 terrain type=2
+print x=200 y=80 terrain type=2
+print x=199 y=79 terrain type=2
+print x=194 y=72 terrain type=1
+print x=195 y=73 terrain type=2
+print x=196 y=74 terrain type=2
+print x=197 y=75 terrain type=2
+print x=198 y=76 terrain type=2
+print x=195 y=72 terrain type=2
+print x=196 y=73 terrain type=2
+print x=197 y=74 terrain type=2
+print x=198 y=75 terrain type=2
+print x=196 y=72 terrain type=2
+print x=197 y=73 terrain type=2
+print x=198 y=74 terrain type=2
+print x=196 y=71 terrain type=2
+print x=197 y=72 terrain type=2
+print x=198 y=73 terrain type=2
+print x=197 y=71 terrain type=2
+print x=198 y=72 terrain type=2
+print x=198 y=71 terrain type=2
+print x=199 y=71 terrain type=2
+print x=199 y=72 terrain type=2
+print x=199 y=73 terrain type=2
+print x=199 y=74 terrain type=2
+print x=199 y=75 terrain type=2
+print x=199 y=76 terrain type=2
+print x=200 y=71 terrain type=2
+print x=200 y=72 terrain type=2
+print x=200 y=73 terrain type=2
+print x=200 y=74 terrain type=2
+print x=200 y=75 terrain type=2
+print x=201 y=71 terrain type=2
+print x=201 y=72 terrain type=2
+print x=201 y=73 terrain type=2
+print x=201 y=74 terrain type=2
+print x=202 y=71 terrain type=2
+print x=202 y=72 terrain type=2
+print x=202 y=73 terrain type=2
+print x=203 y=72 terrain type=2
+print x=204 y=72 terrain type=2
+print x=203 y=73 terrain type=2
+print x=202 y=74 terrain type=2
+print x=201 y=75 terrain type=2
+print x=200 y=76 terrain type=2
+print x=199 y=77 terrain type=2
+print x=199 y=78 ally character_index=5 hit_point=2 symbol=h
+action? x=182 y=101 character_index=1 hit_point=2 symbol=h
+print x=188 y=95 terrain type=4
+print x=189 y=97 terrain type=2
+print x=179 y=93 terrain type=3
+print x=180 y=93 terrain type=2
+print x=181 y=93 terrain type=2
+print x=182 y=93 terrain type=2
+print x=183 y=93 terrain type=2
+print x=184 y=93 terrain type=2
+print x=185 y=93 terrain type=2
+print x=186 y=94 terrain type=4
+print x=187 y=94 terrain type=4
+hide x=179 y=100
+hide x=178 y=100
+hide x=177 y=100
+hide x=176 y=100
+hide x=175 y=100
+hide x=189 y=104
+hide x=188 y=106
+hide x=179 y=108
+hide x=180 y=108
+hide x=181 y=108
+hide x=182 y=108
+hide x=183 y=108
+hide x=184 y=108
+hide x=185 y=108
+hide x=186 y=107
+hide x=187 y=107
+print x=182 y=101 terrain type=4
+print x=182 y=100 ally character_index=1 hit_point=2 symbol=h
+action? x=189 y=140 character_index=2 hit_point=2 symbol=h
+print x=191 y=132 terrain type=2
+print x=192 y=132 terrain type=4
+print x=193 y=133 terrain type=1
+print x=194 y=133 terrain type=1
+print x=196 y=136 terrain type=5
+hide x=185 y=135
+hide x=185 y=134
+hide x=186 y=133
+hide x=186 y=134
+hide x=186 y=135
+hide x=186 y=136
+hide x=182 y=143
+hide x=183 y=145
+hide x=195 y=145
+hide x=184 y=146
+hide x=185 y=146
+hide x=186 y=147
+hide x=187 y=147
+hide x=188 y=147
+hide x=189 y=147
+hide x=190 y=147
+hide x=191 y=147
+hide x=192 y=147
+hide x=193 y=146
+hide x=194 y=146
+print x=189 y=140 terrain type=4
+print x=189 y=139 ally character_index=2 hit_point=2 symbol=h
+action? x=104 y=20 character_index=3 hit_point=2 symbol=h
+hide x=98 y=17
+hide x=99 y=18
+hide x=100 y=19
+hide x=97 y=17
+hide x=98 y=18
+hide x=99 y=19
+hide x=97 y=18
+hide x=98 y=19
+hide x=97 y=19
+hide x=97 y=23
+print x=104 y=20 terrain type=5
+print x=104 y=19 ally character_index=3 hit_point=2 symbol=h
+action? x=217 y=65 character_index=4 hit_point=2 symbol=h
+print x=210 y=60 terrain type=2
+print x=210 y=61 terrain type=2
+print x=209 y=62 terrain type=2
+print x=209 y=63 terrain type=2
+print x=209 y=64 terrain type=2
+print x=209 y=65 terrain type=2
+print x=209 y=66 terrain type=2
+print x=209 y=67 terrain type=3
+print x=209 y=68 terrain type=3
+print x=210 y=69 terrain type=3
+print x=210 y=70 terrain type=3
+print x=211 y=71 terrain type=3
+print x=213 y=72 terrain type=3
+print x=211 y=59 terrain type=2
+print x=213 y=58 terrain type=2
+hide x=223 y=60
+hide x=223 y=61
+hide x=224 y=62
+hide x=224 y=63
+hide x=224 y=64
+hide x=224 y=65
+hide x=224 y=66
+hide x=224 y=67
+hide x=224 y=68
+hide x=223 y=69
+hide x=223 y=70
+hide x=220 y=72
+hide x=222 y=71
+hide x=220 y=58
+hide x=222 y=59
+print x=217 y=65 terrain type=2
+print x=216 y=65 ally character_index=4 hit_point=2 symbol=h
+action? x=199 y=78 character_index=5 hit_point=2 symbol=h
+print x=192 y=73 terrain type=2
+print x=192 y=74 terrain type=2
+print x=191 y=75 terrain type=2
+print x=191 y=76 terrain type=2
+print x=191 y=77 terrain type=2
+print x=191 y=78 terrain type=2
+print x=191 y=79 terrain type=2
+print x=191 y=80 terrain type=2
+print x=191 y=81 terrain type=2
+print x=192 y=82 terrain type=2
+print x=192 y=83 terrain type=2
+print x=193 y=84 terrain type=2
+print x=195 y=85 terrain type=2
+print x=193 y=72 terrain type=2
+print x=195 y=71 terrain type=1
+hide x=205 y=73
+hide x=205 y=74
+hide x=206 y=75
+hide x=206 y=76
+hide x=206 y=77
+hide x=206 y=78
+hide x=206 y=79
+hide x=206 y=80
+hide x=206 y=81
+hide x=205 y=82
+hide x=205 y=83
+hide x=202 y=85
+hide x=204 y=84
+hide x=202 y=71
+hide x=204 y=72
+print x=199 y=78 terrain type=2
+print x=198 y=78 ally character_index=5 hit_point=2 symbol=h
+action? x=182 y=100 character_index=1 hit_point=2 symbol=h
+print x=174 y=101 terrain type=2
+print x=174 y=102 terrain type=2
+print x=174 y=103 terrain type=1
+print x=178 y=93 terrain type=3
+hide x=188 y=95
+hide x=188 y=96
+hide x=189 y=97
+hide x=189 y=98
+hide x=189 y=99
+hide x=189 y=100
+hide x=189 y=101
+hide x=189 y=102
+hide x=189 y=103
+hide x=188 y=104
+hide x=188 y=105
+hide x=185 y=107
+hide x=187 y=106
+hide x=185 y=93
+hide x=187 y=94
+print x=182 y=100 terrain type=4
+print x=181 y=100 ally character_index=1 hit_point=2 symbol=h
+action? x=189 y=139 character_index=2 hit_point=2 symbol=h
+print x=185 y=135 terrain type=6
+print x=185 y=134 terrain type=6
+print x=185 y=133 terrain type=2
+print x=185 y=132 terrain type=0
+print x=186 y=132 terrain type=1
+print x=186 y=133 terrain type=1
+print x=186 y=134 terrain type=2
+print x=186 y=135 terrain type=2
+print x=186 y=136 terrain type=2
+print x=181 y=137 terrain type=2
+print x=181 y=138 terrain type=2
+print x=181 y=139 terrain type=2
+print x=181 y=140 terrain type=2
+print x=181 y=141 terrain type=2
+print x=181 y=142 terrain type=1
+print x=182 y=143 terrain type=1
+print x=182 y=144 terrain type=1
+print x=183 y=145 terrain type=4
+print x=185 y=146 terrain type=2
+hide x=191 y=132
+hide x=191 y=133
+hide x=191 y=134
+hide x=191 y=135
+hide x=192 y=132
+hide x=192 y=133
+hide x=192 y=134
+hide x=193 y=133
+hide x=194 y=133
+hide x=193 y=134
+hide x=192 y=135
+hide x=191 y=136
+hide x=195 y=135
+hide x=196 y=136
+hide x=196 y=137
+hide x=196 y=138
+hide x=196 y=139
+hide x=196 y=140
+hide x=196 y=141
+hide x=196 y=142
+hide x=195 y=143
+hide x=195 y=144
+hide x=192 y=146
+hide x=194 y=145
+print x=189 y=139 terrain type=2
+print x=188 y=139 ally character_index=2 hit_point=2 symbol=h
+action? x=104 y=19 character_index=3 hit_point=2 symbol=h

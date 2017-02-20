@@ -1,0 +1,52 @@
+### Starting build.
+# Target: sources/mapgen/mapgen.ml.depends, tags: { extension:ml, file:sources/mapgen/mapgen.ml, ocaml, ocamldep, quiet }
+/home/ealata/.opam/4.03.0/bin/ocamldep.opt -modules sources/mapgen/mapgen.ml > sources/mapgen/mapgen.ml.depends # cached
+# Target: sources/mapgen/buildings.ml.depends, tags: { extension:ml, file:sources/mapgen/buildings.ml, ocaml, ocamldep, quiet }
+/home/ealata/.opam/4.03.0/bin/ocamldep.opt -modules sources/mapgen/buildings.ml > sources/mapgen/buildings.ml.depends # cached
+# Target: sources/mapgen/geometry.ml.depends, tags: { extension:ml, file:sources/mapgen/geometry.ml, ocaml, ocamldep, quiet }
+/home/ealata/.opam/4.03.0/bin/ocamldep.opt -modules sources/mapgen/geometry.ml > sources/mapgen/geometry.ml.depends # cached
+# Target: sources/mapgen/terrain.ml.depends, tags: { extension:ml, file:sources/mapgen/terrain.ml, ocaml, ocamldep, quiet }
+/home/ealata/.opam/4.03.0/bin/ocamldep.opt -modules sources/mapgen/terrain.ml > sources/mapgen/terrain.ml.depends # cached
+# Target: sources/mapgen/geometry.cmo, tags: { byte, compile, extension:cmo, extension:ml, file:sources/mapgen/geometry.cmo, file:sources/mapgen/geometry.ml, implem, ocaml, quiet }
+/home/ealata/.opam/4.03.0/bin/ocamlc.opt -c -g -I sources/mapgen -I sources -I sources/server -I sources/common -o sources/mapgen/geometry.cmo sources/mapgen/geometry.ml
+# Target: sources/mapgen/terrain.cmo, tags: { byte, compile, extension:cmo, extension:ml, file:sources/mapgen/terrain.cmo, file:sources/mapgen/terrain.ml, implem, ocaml, quiet }
+/home/ealata/.opam/4.03.0/bin/ocamlc.opt -c -g -I sources/mapgen -I sources -I sources/server -I sources/common -o sources/mapgen/terrain.cmo sources/mapgen/terrain.ml
+# Target: sources/mapgen/city.ml.depends, tags: { extension:ml, file:sources/mapgen/city.ml, ocaml, ocamldep, quiet }
+/home/ealata/.opam/4.03.0/bin/ocamldep.opt -modules sources/mapgen/city.ml > sources/mapgen/city.ml.depends # cached
+# Target: sources/common/data_structure.ml.depends, tags: { extension:ml, file:sources/common/data_structure.ml, ocaml, ocamldep, quiet }
+/home/ealata/.opam/4.03.0/bin/ocamldep.opt -modules sources/common/data_structure.ml > sources/common/data_structure.ml.depends # cached
+# Target: sources/common/data_structure.cmo, tags: { byte, compile, extension:cmo, extension:ml, file:sources/common/data_structure.cmo, file:sources/common/data_structure.ml, implem, ocaml, quiet }
+/home/ealata/.opam/4.03.0/bin/ocamlc.opt -c -g -I sources/common -I sources -I sources/server -I sources/mapgen -o sources/common/data_structure.cmo sources/common/data_structure.ml
+# Target: sources/mapgen/noise.ml.depends, tags: { extension:ml, file:sources/mapgen/noise.ml, ocaml, ocamldep, quiet }
+/home/ealata/.opam/4.03.0/bin/ocamldep.opt -modules sources/mapgen/noise.ml > sources/mapgen/noise.ml.depends # cached
+# Target: sources/common/misc.ml.depends, tags: { extension:ml, file:sources/common/misc.ml, ocaml, ocamldep, quiet }
+/home/ealata/.opam/4.03.0/bin/ocamldep.opt -modules sources/common/misc.ml > sources/common/misc.ml.depends # cached
+# Target: sources/common/misc.cmo, tags: { byte, compile, extension:cmo, extension:ml, file:sources/common/misc.cmo, file:sources/common/misc.ml, implem, ocaml, quiet }
+/home/ealata/.opam/4.03.0/bin/ocamlc.opt -c -g -I sources/common -I sources -I sources/server -I sources/mapgen -o sources/common/misc.cmo sources/common/misc.ml
+# Target: sources/mapgen/buildings.cmo, tags: { byte, compile, extension:cmo, extension:ml, file:sources/mapgen/buildings.cmo, file:sources/mapgen/buildings.ml, implem, ocaml, quiet }
+/home/ealata/.opam/4.03.0/bin/ocamlc.opt -c -g -I sources/mapgen -I sources -I sources/server -I sources/common -o sources/mapgen/buildings.cmo sources/mapgen/buildings.ml
+# Target: sources/mapgen/city.cmo, tags: { byte, compile, extension:cmo, extension:ml, file:sources/mapgen/city.cmo, file:sources/mapgen/city.ml, implem, ocaml, quiet }
+/home/ealata/.opam/4.03.0/bin/ocamlc.opt -c -g -I sources/mapgen -I sources -I sources/server -I sources/common -o sources/mapgen/city.cmo sources/mapgen/city.ml
+# Target: sources/mapgen/noise.cmo, tags: { byte, compile, extension:cmo, extension:ml, file:sources/mapgen/noise.cmo, file:sources/mapgen/noise.ml, implem, ocaml, quiet }
+/home/ealata/.opam/4.03.0/bin/ocamlc.opt -c -g -I sources/mapgen -I sources -I sources/server -I sources/common -o sources/mapgen/noise.cmo sources/mapgen/noise.ml
+# Target: sources/mapgen/mapgen.cmo, tags: { byte, compile, extension:cmo, extension:ml, file:sources/mapgen/mapgen.cmo, file:sources/mapgen/mapgen.ml, implem, ocaml, quiet }
+/home/ealata/.opam/4.03.0/bin/ocamlc.opt -c -g -I sources/mapgen -I sources -I sources/server -I sources/common -o sources/mapgen/mapgen.cmo sources/mapgen/mapgen.ml
+# Target: sources/mapgen/mapgen.d.cmo, tags: { byte, compile, debug, extension:cmo, extension:ml, file:sources/mapgen/mapgen.d.cmo, file:sources/mapgen/mapgen.ml, implem, ocaml, quiet }
+/home/ealata/.opam/4.03.0/bin/ocamlc.opt -c -g -g -I sources/mapgen -I sources -I sources/server -I sources/common -o sources/mapgen/mapgen.d.cmo sources/mapgen/mapgen.ml # cached
+# Target: sources/mapgen/buildings.d.cmo, tags: { byte, compile, debug, extension:cmo, extension:ml, file:sources/mapgen/buildings.d.cmo, file:sources/mapgen/buildings.ml, implem, ocaml, quiet }
+/home/ealata/.opam/4.03.0/bin/ocamlc.opt -c -g -g -I sources/mapgen -I sources -I sources/server -I sources/common -o sources/mapgen/buildings.d.cmo sources/mapgen/buildings.ml # cached
+# Target: sources/mapgen/city.d.cmo, tags: { byte, compile, debug, extension:cmo, extension:ml, file:sources/mapgen/city.d.cmo, file:sources/mapgen/city.ml, implem, ocaml, quiet }
+/home/ealata/.opam/4.03.0/bin/ocamlc.opt -c -g -g -I sources/mapgen -I sources -I sources/server -I sources/common -o sources/mapgen/city.d.cmo sources/mapgen/city.ml # cached
+# Target: sources/mapgen/geometry.d.cmo, tags: { byte, compile, debug, extension:cmo, extension:ml, file:sources/mapgen/geometry.d.cmo, file:sources/mapgen/geometry.ml, implem, ocaml, quiet }
+/home/ealata/.opam/4.03.0/bin/ocamlc.opt -c -g -g -I sources/mapgen -I sources -I sources/server -I sources/common -o sources/mapgen/geometry.d.cmo sources/mapgen/geometry.ml # cached
+# Target: sources/mapgen/noise.d.cmo, tags: { byte, compile, debug, extension:cmo, extension:ml, file:sources/mapgen/noise.d.cmo, file:sources/mapgen/noise.ml, implem, ocaml, quiet }
+/home/ealata/.opam/4.03.0/bin/ocamlc.opt -c -g -g -I sources/mapgen -I sources -I sources/server -I sources/common -o sources/mapgen/noise.d.cmo sources/mapgen/noise.ml # cached
+# Target: sources/mapgen/terrain.d.cmo, tags: { byte, compile, debug, extension:cmo, extension:ml, file:sources/mapgen/terrain.d.cmo, file:sources/mapgen/terrain.ml, implem, ocaml, quiet }
+/home/ealata/.opam/4.03.0/bin/ocamlc.opt -c -g -g -I sources/mapgen -I sources -I sources/server -I sources/common -o sources/mapgen/terrain.d.cmo sources/mapgen/terrain.ml # cached
+# Target: sources/common/data_structure.d.cmo, tags: { byte, compile, debug, extension:cmo, extension:ml, file:sources/common/data_structure.d.cmo, file:sources/common/data_structure.ml, implem, ocaml, quiet }
+/home/ealata/.opam/4.03.0/bin/ocamlc.opt -c -g -g -I sources/common -I sources -I sources/server -I sources/mapgen -o sources/common/data_structure.d.cmo sources/common/data_structure.ml # cached
+# Target: sources/common/misc.d.cmo, tags: { byte, compile, debug, extension:cmo, extension:ml, file:sources/common/misc.d.cmo, file:sources/common/misc.ml, implem, ocaml, quiet }
+/home/ealata/.opam/4.03.0/bin/ocamlc.opt -c -g -g -I sources/common -I sources -I sources/server -I sources/mapgen -o sources/common/misc.d.cmo sources/common/misc.ml # cached
+# Target: sources/mapgen/mapgen.d.byte, tags: { byte, debug, dont_link_with, extension:byte, file:sources/mapgen/mapgen.d.byte, link, ocaml, program, quiet }
+/home/ealata/.opam/4.03.0/bin/ocamlc.opt unix.cma -g sources/mapgen/geometry.d.cmo sources/mapgen/terrain.d.cmo sources/mapgen/buildings.d.cmo sources/common/data_structure.d.cmo sources/mapgen/city.d.cmo sources/common/misc.d.cmo sources/mapgen/noise.d.cmo sources/mapgen/mapgen.d.cmo -o sources/mapgen/mapgen.d.byte # cached
+# Compilation successful.
