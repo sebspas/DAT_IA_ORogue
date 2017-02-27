@@ -153,17 +153,17 @@ def do_action(game, d):
 	end_game = False
 	while not end_turn:
 		c = getch()
-		if c == 'q':
+		if c == 'a':
 			game.s.send("end\n")
 			end_turn = True
 			end_game = True
-		elif c == 'w':
+		elif c == 'z':
 			game.s.send("north\n")
 			end_turn = True
 		elif c == 'd':
 			game.s.send("east\n")
 			end_turn = True
-		elif c == 'a':
+		elif c == 'q':
 			game.s.send("west\n")
 			end_turn = True
 		elif c == 's':
