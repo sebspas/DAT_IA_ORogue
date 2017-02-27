@@ -1,0 +1,12 @@
+### Starting build.
+# Target: server.ml.depends, tags: { extension:ml, file:server.ml, ocaml, ocamldep, quiet }
+/home/tahel/.opam/4.03.0/bin/ocamldep.opt -modules server.ml > server.ml.depends # cached
+# Target: fov.ml.depends, tags: { extension:ml, file:fov.ml, ocaml, ocamldep, quiet }
+/home/tahel/.opam/4.03.0/bin/ocamldep.opt -modules fov.ml > fov.ml.depends # cached
+# Target: fov.cmo, tags: { byte, compile, extension:cmo, extension:ml, file:fov.cmo, file:fov.ml, implem, ocaml, quiet }
+/home/tahel/.opam/4.03.0/bin/ocamlc.opt -c -o fov.cmo fov.ml
++ /home/tahel/.opam/4.03.0/bin/ocamlc.opt -c -o fov.cmo fov.ml
+File "fov.ml", line 1, characters 5-9:
+Error: Unbound module Misc
+Command exited with code 2.
+# Compilation unsuccessful.
