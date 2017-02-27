@@ -1,3 +1,4 @@
 orogue/server/_build
 orogue/server/*.native
 orogue/server/*.byte
+orogue/server/sources/server/.server.ml.swp
